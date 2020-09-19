@@ -1,4 +1,3 @@
-# UpdateMySite
 # This repository contains documentation samples developed by Treva Phelps-Davis 
 # In the branches you will find documents pertaining to 
 # 1 - testing 
