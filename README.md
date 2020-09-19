@@ -6,4 +6,4 @@
 # 4 - project-status
 # 5 - user-guides
 # 6 - code
-# A sample GitHub Project is also available to view, just visit the Project 'account access'. This mockup sprint includes the tasks needed for the Account Access feature of the product, Submit Change Request Tool(SCRT). Product concept: allow clients to request website updates via this tool.  
+# A sample GitHub Project is also available to view, just visit the Project 'account access'. This mockup sprint includes the tasks required for the Account Acceess feature of the Submit Change Request Tool(SCRT). This tool allows clients/customers to request website content changes.  
