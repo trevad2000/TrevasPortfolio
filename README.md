@@ -1,3 +1,6 @@
 # UpdateMySite
-# Here you will find samples or templatess provided by Treva Phelps-Davis 
-# available documents: product roadmap, sprint milestons, test plans, status reports
+# This repository contains documentation samples developed by Treva Phelps-Davis 
+# In the branchs you will find documents pertaining to 
+# 1 - Testing 
+# 2 - Product-backlog 
+# 3 - product-vision 
